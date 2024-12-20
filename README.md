@@ -1,7 +1,7 @@
 # 💫 About Me:
-A Full stack developer currently working on my E commerce project along with experience in working with angular and spring boot
-Also an AI enthusiast currently doing course on spring ai and previously worked on Object Detection Project.
-Ask me About Spring Boot,Angular and DSA
+A Full stack developer currently working on my E commerce project along with experience in working with angular and spring boot<br/>
+Also an AI enthusiast currently doing course on spring ai and previously worked on Object Detection Project.<br/>
+Ask me About Spring Boot,Angular and DSA<br/>
 
 
 
