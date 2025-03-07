@@ -1,6 +1,6 @@
 ## 🚀 About Me
 <p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="210" align="right"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right"/>
 </p>
 
 - 🚀 **Full-stack developer** working on an **E-commerce project** using **Angular & Spring Boot**  
@@ -56,23 +56,9 @@
 
 ---
 
-### **🏆 GitHub Achievements**
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gatt101&theme=radical&margin-w=15&margin-h=15">
-</p>
 
----
 
 ### **🔥 Fun Fact**
 > “Coding is like humor. If you have to explain it, it’s bad.” 😆
 
 ---
-
-### **🔢 Profile Visits**
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=gatt101&icon=0&color=0">
-</p>
-
----
-
-This version makes your **GitHub profile stand out** with better **visual hierarchy, spacing, and colors**. 🚀🔥 Let me know if you want to tweak anything further! 😃
