@@ -3,19 +3,20 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right"/>
 </p>
 
-- 🚀 **Full-stack developer** working on an **E-commerce project** using **Angular & Spring Boot**  
-- 🧠 AI enthusiast currently learning **Spring AI**  
-- 🔍 Previously worked on an **Object Detection Project**  
-- 💡 Ask me about **Spring Boot, Angular, and DSA**  
+- 🚀 **Full-stack developer** with experience in building **E-commerce platforms**, **Blog Applications**, and **JWT Authentication systems**.
+- 🧠 **AI enthusiast** currently exploring **Spring AI** and working on AI-related full-stack projects.
+- 🔍 Experienced in **Machine Learning** projects, including **Object Detection**.
+- 💡 Ask me about **Spring Boot**, **Angular**, **Data Structures & Algorithms (DSA)** and **Flask**.
 
+---
 
 ## **🌐 Connect with Me**
 <p align="left">
-<a href="https://linkedin.com/in/gaurav-patil-2724a8264"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://x.com/Gaurav72256287"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"></a>
-<a href="https://leetcode.com/u/Gaurav38739/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-<a href="https://www.naukri.com/code360/profile/gattonline"><img src="https://img.shields.io/badge/Coding%20Ninjas-%23F06400.svg?style=for-the-badge&logo=codewars&logoColor=white"></a>
-<a href="https://codeforces.com/profile/gatt11atCF"><img src="https://img.shields.io/badge/Codeforces-%232F74C0.svg?style=for-the-badge&logo=codesandbox&logoColor=white"></a>
+  <a href="https://linkedin.com/in/gaurav-patil-2724a8264"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/Gaurav72256287"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Gaurav38739/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.naukri.com/code360/profile/gattonline"><img src="https://img.shields.io/badge/Coding%20Ninjas-%23F06400.svg?style=for-the-badge&logo=codewars&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/gatt11atCF"><img src="https://img.shields.io/badge/Codeforces-%232F74C0.svg?style=for-the-badge&logo=codesandbox&logoColor=white"></a>
 </p>
 
 ---
@@ -46,19 +47,10 @@
 
 ## **📊 GitHub Stats**
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gatt101&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" width="48%">  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gatt101&theme=shadow_blue&hide_border=false" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gatt101&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" width="48%">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gatt101&theme=shadow_blue&hide_border=false" width="48%">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gatt101&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gatt101&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%">
 </p>
-
----
-
-
-
-### **🔥 Fun Fact**
-> “Coding is like humor. If you have to explain it, it’s bad.” 😆
-
----
