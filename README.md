@@ -4,12 +4,16 @@
 
 ## 🚀 About Me
 
-- ✔ **Full-stack developer** with experience in building **E-commerce platforms**, **Blog Applications**, and **JWT Authentication systems**.
-- 🧠 **AI enthusiast** currently exploring **Spring AI** and working on AI-related full-stack projects.
-- 🔍 Experienced in **Machine Learning** projects, including **Object Detection**.
-- 💡 Ask me about **Spring Boot**, **Angular**, **Data Structures & Algorithms (DSA)**, and **Flask**.
+- ✔ **Full-stack developer** with experience in building a lot of full stack projects , AI based Full Stack Project, Deployment across various platforms.
+- 🧠 **AI enthusiast** working on AI-related full-stack projects.
+- 🔍 Experienced in **Machine Learning** projects, including **Object Detection**,**Sentimental Analysis**,**Text Summarization**.
+- 💡 Ask me about **Spring Boot**, **Angular**, **Flask**,**Data Structures & Algorithms (DSA)** and **System Design**.
 
----
+<hr>
+<p align="center">
+   To Connect with Me Visit my Website :  <a href="https://gauravpatil.me" align="center"> PORTFOLIO </a>
+</p>
+<hr>
 
 ## **🌐 Connect with Me**
 <p align="left">
