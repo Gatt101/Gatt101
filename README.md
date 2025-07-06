@@ -100,10 +100,10 @@ I'm a passionate **Full-Stack Developer** with a love for building innovative **
 
 Here are some projects I'm proud of:
 
-- **[E-Commerce Platform](https://github.com/Gatt101/ai-chat-app)**: A Scalable, secure full-stack platform
+- **[E-Commerce Platform](https://e-commerce-alpha-five-96.vercel.app)**: A Scalable, secure full-stack platform
  along with user authentication, cart, orders, admin dashboard.
-- **[Radiographic X-Ray Bone Fracture Severity Detection and Analysis](https://github.com/Gatt101/object-detection)**: Built a fracture detection system with X-ray image analysis and AI-generated orthopedic suggestions.
-- **[Sentiment Analysis Tool](https://github.com/Gatt101/sentiment-analysis)**: A Flask-based web app for text sentiment analysis using transformers.
+- **[Radiographic X-Ray Bone Fracture Severity Detection and Analysis](https://orthopedic-agent.vercel.app/)**: Built a fracture detection system with X-ray image analysis and AI-generated orthopedic suggestions.
+- **[Sentiment Analysis Tool](https://sentimental-analysis-gatt101s-projects.vercel.app)**: A Flask-based web app for text sentiment analysis using transformers.
 
 *Explore more on my [GitHub](https://github.com/Gatt101)!*
 
