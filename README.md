@@ -8,17 +8,14 @@
 </p>
 
 <p align="center">
-  <a href="https://gauravpatil.me"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=flat-square&logo=webflow&logoColor=white&scale=1.5" /></a>
-  <a href="https://linkedin.com/in/gaurav-patil-2724a8264"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&scale=1.5" /></a>
-  <a href="https://x.com/Gaurav72256287"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&scale=1.5" /></a>
+  <a href="https://gauravpatil.me"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=flat-square&logo=webflow&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gaurav-patil-2724a8264"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Gaurav72256287"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🚀 About Me
-
-💡 **What drives me?**  
-Building things that make life easier, smarter, and a little more fun.
 
 - 🧑‍💻 **Tech Stack Magician:**  
   Angular, Spring Boot, Flask – weaving backends, frontends & AI together.
@@ -29,22 +26,7 @@ Building things that make life easier, smarter, and a little more fun.
 - 🔥 **Problem Solver:**  
   DSA & System Design geek (find me on LeetCode/Codeforces!).
 
-- 🌱 **Lifelong Learner:**  
-  Always chasing new frameworks, APIs, and tools to stay ahead.
-
 If you're into shipping cool products, discussing AI, or cracking coding puzzles – we're already friends!
-
----
-
-## 🌎 Where to Find Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/gaurav-patil-2724a8264"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&scale=1.5" /></a>
-  <a href="https://x.com/Gaurav72256287"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&scale=1.5" /></a>
-  <a href="https://leetcode.com/u/Gaurav38739/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&scale=1.5" /></a>
-  <a href="https://www.naukri.com/code360/profile/gattonline"><img src="https://img.shields.io/badge/Coding%20Ninjas-F06400?style=flat-square&logo=codewars&logoColor=white&scale=1.5" /></a>
-  <a href="https://codeforces.com/profile/gatt11atCF"><img src="https://img.shields.io/badge/Codeforces-2F74C0?style=flat-square&logo=codesandbox&logoColor=white&scale=1.5" /></a>
-</p>
 
 ---
 
@@ -52,27 +34,26 @@ If you're into shipping cool products, discussing AI, or cracking coding puzzles
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E&scale=1.5" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&scale=1.5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="38" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="38" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="38" title="Flask"/>
 </p>
 
 ### Databases & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black&scale=1.5" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&scale=1.5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="38" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38" title="NumPy"/>
 </p>
 
 ---
@@ -109,7 +90,7 @@ Check out what I've been building:
 ## 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="https://gauravpatil.me"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-1E90FF?style=flat-square&logo=webflow&logoColor=white&scale=1.5" /></a>
+  <a href="https://gauravpatil.me"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-1E90FF?style=flat-square&logo=webflow&logoColor=white" /></a>
 </p>
 
 <p align="center">
