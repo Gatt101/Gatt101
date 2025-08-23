@@ -19,7 +19,7 @@
 
 - 🧑‍💻 **Tech Stack Magician:** Angular, Spring Boot, Flask, Express, Python — weaving backends, frontends & AI together.  
 - 🤖 **AI/ML Enthusiast:** Object detection, sentiment analysis, NLP & more.  
-- 🔥 **Problem Solver:** DSA & System Design geek (LeetCode/Codeforces).
+- 🔥 **Problem Solver:** DSA & System Design geek (LeetCode/Codeforces).  
 
 If you're into shipping cool products, discussing AI, or cracking coding puzzles — we're already friends!
 
@@ -81,42 +81,74 @@ If you're into shipping cool products, discussing AI, or cracking coding puzzles
 
 ## 🚩 Featured Projects
 
-### 🔹 Briefly (AI-powered Research Summarizer)
-Turns long research abstracts (like arXiv papers) into crisp, easy-to-digest summaries.  
-**Highlights:** automatic summarization, key insights extraction, future SaaS potential.  
-**Stack:** Flask, Hugging Face Transformers, React, Tailwind.  
+### 🔹 Orthopedic AI Assistant  
+Detects bone fractures from X-rays and generates instant AI-powered medical insights.
+
+**Tech Stack:**  
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv11-FF6F00?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+</p>
+
 **Links:**  
-- Repo: https://github.com/Gatt101/Briefly  
-- Live: https://briefly.gauravpatil.me  
+🔗 <a href="https://orthopedic-agent.vercel.app/">Live Demo</a> | <a href="https://github.com/Gatt101/Bone_Fracture_Detection">Repo</a>
 
 ---
 
-- **[E-Commerce Platform](https://e-commerce-alpha-five-96.vercel.app)**  
-  Modern, secure, full-stack e-commerce with auth, cart, orders & admin dashboard.  
-  <sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" width="22"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="22"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="22"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="22"/>
-  </sub>
+### 🔹 Briefly (AI-powered Research Summarizer)  
+Turns dense research abstracts (like arXiv papers) into crisp, easy-to-digest summaries.
 
-- **[Orthopedic X-Ray AI](https://orthopedic-agent.vercel.app/)**  
-  Detects bone fractures from X-rays & offers instant AI-powered medical insights.  
-  <sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="22"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="22"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" title="OpenCV" width="22"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="22"/>
-  </sub>
+**Tech Stack:**  
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xenova%20Transformers-FFB400?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
-- **[Sentiment Analysis Tool](https://sentimental-analysis-gatt101s-projects.vercel.app)**  
-  Multi-lingual sentiment analyzer powered by Flask + Hugging Face transformers.  
-  <sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="22"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="22"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="Nginx" width="22"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel" width="22"/>
-  </sub>
+**Links:**  
+🔗 <a href="https://prac101-wtdw.vercel.app/">Live Demo</a> | <a href="https://github.com/Gatt101/prac101">Repo</a>
+
+---
+
+### 🔹 Drone-based Tree Enumeration  
+Automated pipeline to analyze drone imagery and detect/count trees with high accuracy.
+
+**Tech Stack:**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv11-FF6F00?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drone%20Imagery-555555?style=flat-square&logo=airplayvideo&logoColor=white" />
+</p>
+
+**Links:**  
+🔗 <a href="https://github.com/Gatt101/Tree_Enumeration">Repo</a>
+
+---
+
+### 🔹 Multilingual Sentiment Analysis  
+Multi-lingual sentiment analyzer supporting 10+ languages.
+
+**Tech Stack:**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFB400?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+**Links:**  
+🔗 <a href="https://sentimental-analysis-gatt101s-projects.vercel.app/home">Live</a> | <a href="https://github.com/Gatt101/Sentimental_Analysis">Repo</a>
+
+---
 
 **More projects?** [Dive into my GitHub!](https://github.com/Gatt101)
 
