@@ -17,16 +17,11 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 **Tech Stack Magician:**  
-  Angular, Spring Boot, Flask, Express, Python – weaving backends, frontends & AI together.
+- 🧑‍💻 **Tech Stack Magician:** Angular, Spring Boot, Flask, Express, Python — weaving backends, frontends & AI together.  
+- 🤖 **AI/ML Enthusiast:** Object detection, sentiment analysis, NLP & more.  
+- 🔥 **Problem Solver:** DSA & System Design geek (LeetCode/Codeforces).
 
-- 🤖 **AI/ML Enthusiast:**  
-  Real-world projects in object detection, sentiment analysis, NLP & more.
-
-- 🔥 **Problem Solver:**  
-  DSA & System Design geek (find me on LeetCode/Codeforces!).
-
-If you're into shipping cool products, discussing AI, or cracking coding puzzles – we're already friends!
+If you're into shipping cool products, discussing AI, or cracking coding puzzles — we're already friends!
 
 ---
 
@@ -46,27 +41,28 @@ If you're into shipping cool products, discussing AI, or cracking coding puzzles
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="Express" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="42"/>
 </p>
 
-### Databases & Deployment Platforms
+### Databases, Tools & Platforms
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" alt="Heroku" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="Nginx" width="42"/>
 </p>
 
 ---
@@ -85,16 +81,42 @@ If you're into shipping cool products, discussing AI, or cracking coding puzzles
 
 ## 🚩 Featured Projects
 
-Check out what I've been building:
+### 🔹 Briefly (AI-powered Research Summarizer)
+Turns long research abstracts (like arXiv papers) into crisp, easy-to-digest summaries.  
+**Highlights:** automatic summarization, key insights extraction, future SaaS potential.  
+**Stack:** Flask, Hugging Face Transformers, React, Tailwind.  
+**Links:**  
+- Repo: https://github.com/Gatt101/Briefly  
+- Live: https://briefly.gauravpatil.me  
+
+---
 
 - **[E-Commerce Platform](https://e-commerce-alpha-five-96.vercel.app)**  
-  Modern, secure, full-stack e-commerce with user auth, cart, orders & admin dashboard.
+  Modern, secure, full-stack e-commerce with auth, cart, orders & admin dashboard.  
+  <sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="22"/>
+  </sub>
 
 - **[Orthopedic X-Ray AI](https://orthopedic-agent.vercel.app/)**  
-  Detects bone fractures from X-rays & offers instant AI-powered medical insights.
+  Detects bone fractures from X-rays & offers instant AI-powered medical insights.  
+  <sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" title="OpenCV" width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="22"/>
+  </sub>
 
 - **[Sentiment Analysis Tool](https://sentimental-analysis-gatt101s-projects.vercel.app)**  
-  Multi-lingual sentiment analyzer powered by Flask + Hugging Face transformers.
+  Multi-lingual sentiment analyzer powered by Flask + Hugging Face transformers.  
+  <sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="Nginx" width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel" width="22"/>
+  </sub>
 
 **More projects?** [Dive into my GitHub!](https://github.com/Gatt101)
 
