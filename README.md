@@ -9,8 +9,6 @@
 
 <p align="center">
   <a href="https://gauravpatil.me"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=flat-square&logo=webflow&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/gaurav-patil-2724a8264"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Gaurav72256287"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
 ---
@@ -27,15 +25,18 @@ If you're into shipping cool products, discussing AI, or cracking coding puzzles
 
 ## 🌎 Where to Find Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/gaurav-patil-2724a8264"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Gaurav72256287"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Gaurav38739/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.naukri.com/code360/profile/gattonline"><img src="https://img.shields.io/badge/Coding%20Ninjas-F06400?style=flat-square&logo=codewars&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/gatt11atCF"><img src="https://img.shields.io/badge/Codeforces-2F74C0?style=flat-square&logo=codesandbox&logoColor=white" /></a>
+<p align="center" style="display: flex; justify-content: center; gap: 30px;"> 
+  <a href="https://linkedin.com/in/gaurav-patil-2724a8264">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35px" />
+  </a>
+  <a href="https://x.com/Gaurav72256287">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="35px"/>
+  </a>
+  <a href="https://leetcode.com/u/Gaurav38739/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" height="35px" />
+  </a>
 </p>
 
----
 
 ## 🛠️ Tech Toolbox
 
