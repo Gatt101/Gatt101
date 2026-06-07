@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gauravpatil.me">
+  <a href="https://gaurav.social">
     <img src="https://img.shields.io/badge/🌐 Portfolio-1E90FF?style=for-the-badge&logo=webflow&logoColor=white" />
   </a>
 </p>
