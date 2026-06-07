@@ -94,7 +94,7 @@ If you like building useful things and geeking out on AI, we’ll get along grea
 
 ## 🤝 Let’s Connect!
 <p align="center">
-  <a href="https://gauravpatil.me">
+  <a href="https://gaurav.social">
     <img src="https://img.shields.io/badge/🌐 Visit%20My%20Portfolio-1E90FF?style=for-the-badge&logo=webflow&logoColor=white" />
   </a>
 </p>
